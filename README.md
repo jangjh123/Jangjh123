@@ -17,3 +17,15 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh123&layout=compact&theme=transparent&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
   
   [![gn000123](http://mazassumnida.wtf/api/v2/generate_badge?boj=gn000123)](https://solved.ac/gn000123)
+  <br>
+  <br>
+  <br>
+### <div align = "center">✔ What I've done ✔
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=AllPouse-Android)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=Apexing-Android)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=ShallWeGoForAWalk-Android)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=Beside-Android)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=TeamBuilder-Android)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=GradientViews)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=Jetpack-Compose-CustomView)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&repo=TestCodes)](https://github.com/anuraghazra/github-readme-stats)
