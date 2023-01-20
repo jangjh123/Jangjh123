@@ -18,14 +18,3 @@
   
   [![gn000123](http://mazassumnida.wtf/api/v2/generate_badge?boj=gn000123)](https://solved.ac/gn000123)
   <br>
-  <br>
-  <br>
-### <div align = "center">✔ What I've done ✔
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=AllPouse-Android)](https://github.com/jangjh123/AllPouse-Android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=Apexing-Android)](https://github.com/jangjh123/Apexing-Android)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=ShallWeGoForAWalk-Android)](https://github.com/jangjh123/ShallWeGoForAWalk-Android)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=Beside-Android)](https://github.com/jangjh123/Beside-Android)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=TeamBuilder-Android)](https://github.com/jangjh123/TeamBuilder-Android)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=GradientViews)](https://github.com/jangjh123/GradientViews)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=Jetpack-Compose-CustomView)](https://github.com/jangjh123/Jetpack-Compose-CustomView)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jangjh123&theme=transparent&repo=TestCodes)](https://github.com/jangjh123/TestCodes)
