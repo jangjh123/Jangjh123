@@ -10,9 +10,7 @@
 ### <div align = "center">🏰 Blog 🏰
 
 <div align="center"><a href="https://blothhundr.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=white&link=https://blothhundr.tistory.com/m/"/></a>  
-  <br/><br/><br/><br/>
-  
-  ![jangjh123's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjh123&show_icons=true&theme=transparent)  
+  <br/><br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjh123&layout=compact&theme=transparent&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
   
