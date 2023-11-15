@@ -3,9 +3,9 @@
 ### <div align="center">🛠 Tech Stack 🛠
 </div>
 <br>
-<div align="center"><img src="https://img.shields.io/badge/Android-a4c639?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-room-55ff55?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white">
-  <br><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></div> 
-<br>
+<div align="center"><img src="https://img.shields.io/badge/Android-a4c639?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white">
+  <br><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/figma-FF5566?style=for-the-badge&logo=Figma&logoColor=white"></div> 
+<br> 
 
 ### <div align = "center">🏰 Blog 🏰
 
